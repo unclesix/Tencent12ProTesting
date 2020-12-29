@@ -1,0 +1,74 @@
+//[
+//  {
+//    "itemid": "1234565",
+//    "title": "Json",
+//    "content": "xuexi",
+//    "url": "https://www.baidu.com"
+//  },
+//  {
+//    "itemid": "123456335",
+//    "title": "Json22",
+//    "content": "xuexi222",
+//    "url": "https://www.baidu.com222"
+//  },
+//  {
+//    "itemid": "1234565777",
+//    "title": "Json77",
+//    "content": "xuexi77",
+//    "url": "https://www.baidu.com7"
+//  }
+//]
+//
+//
+//
+
+
+
+
+[
+  {
+    "OP_CODE": "8888",
+    "ORG_NAME": "0000 交易总部",
+    "USER_CODE": "8888",
+    "LOG_IP": "10.25.108.129",
+    "POST_NAME": "系统管理员岗",
+    "CERT_NO": "",
+    "REMARK": "",
+    "ORG_FULL_NAME": "交易总部",
+    "NATIONALITY": "4",
+    "CLOSE_DATE": "0",
+    "LOG_DATE": "",
+    "F_OP_USER": "8888",
+    "USER_ROLE": "2",
+    "TEL": "123",
+    "SEX": "0",
+    "MOBILE_TEL": "13388888888",
+    "OP_PASS": "oZ0SlDPZiQKpRLVppZpVkQ==",
+    "SYSTEM_TIME": "2020-05-17 15:43:09.747",
+    "OPEN_DATE": "0",
+    "USER_POST": "8888",
+    "CITIZENSHIP": "1  ",
+    "EMAIL": "email@email.com",
+    "USER_ICON": "",
+    "IRETCODE": "0",
+    "F_OP_BRANCH": "0000",
+    "BIRTHDAY": "3",
+    "CERT_GET_DATE": "55555",
+    "OP_STATUS": "0",
+    "F_YZT_CHANNEL": "1",
+    "F_CHANNEL": "0",
+    "NATIVE_PLACE": "2",
+    "REQ_TIME": "1589701389806",
+    "F_OP_USER_ENC": "1LYfm2VIouA=",
+    "SEX_DICT": "",
+    "CURRENT_POST": "8888",
+    "CHANNELS": "1",
+    "USER_NAME": "超级管理员",
+    "F_OP_ROLE": "2",
+    "OP_CLS": "1",
+    "EDUCATION": "5",
+    "ORG_CODE": "0000",
+    "USER_TICKET_INFO": "010200000000000022b82005172105171543090000000001+R7LnEmeXYU=Ba8FoChLHSjs6k/05N3zZQJm++jmwHmarr7JgyDWQzw=",
+    "CERT_EFFECTIVE_DATE": "555555555"
+  }
+]
