@@ -14,21 +14,21 @@ class Weather(TestCase):
         #self.ep_path = 'mweather'
         self.cleint = HttpClient()
 
-    @allure.story ('Test of shenzhen')
+    @allure.story ('Test of shenghuo')
     def test_1(self):
         title = '#生活'
         itemid = '36'
         id = 0
         self._test(title,itemid,id)
 
-    @allure.story('Test of shanghai')
+    @allure.story('Test of donghua')
     def test_2(self):
         title = '#动画'
         itemid = '10'
         id = 1
         self._test(title,itemid,id)
 
-    @allure.story('Test of beijing')
+    @allure.story('Test of gaoxiao')
     def test_3(self):
         title = '#搞笑'
         itemid = '28'
