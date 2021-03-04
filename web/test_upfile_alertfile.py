@@ -1,6 +1,6 @@
 from selenium.webdriver import ActionChains
 
-from aWEB.base import Base
+from web.base import Base
 import time,pytest
 
 class Testupfile(Base):

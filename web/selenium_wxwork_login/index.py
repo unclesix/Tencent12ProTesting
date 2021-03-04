@@ -2,8 +2,8 @@
 
 from selenium import webdriver
 
-from aWEB.selenium_wxwork_login.login import Login
-from aWEB.selenium_wxwork_login.register import Register
+from web.selenium_wxwork_login.login import Login
+from web.selenium_wxwork_login.register import Register
 
 class Index:
 

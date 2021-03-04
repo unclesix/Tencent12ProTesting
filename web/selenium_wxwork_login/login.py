@@ -3,7 +3,7 @@
 from selenium import webdriver
 from selenium.webdriver.remote.webdriver import WebDriver     #driver: WebDriver 导入的。alt+enter
 
-from aWEB.selenium_wxwork_login.register import Register
+from web.selenium_wxwork_login.register import Register
 
 
 class Login:

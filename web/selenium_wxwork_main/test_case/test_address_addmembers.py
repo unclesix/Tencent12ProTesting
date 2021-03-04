@@ -1,7 +1,7 @@
 #从通讯录入口添加成员，测试用例
 import time
 
-from aWEB.selenium_wxwork_main.po.main_page import Main
+from web.selenium_wxwork_main.po.main_page import Main
 
 
 class Testaddress_addmbs:

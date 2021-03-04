@@ -1,4 +1,4 @@
-from aWEB.selenium_po.pageobject1 import Main
+from web.selenium_po.pageobject1 import Main
 
 class Testpageobject:
     def test_one(self):

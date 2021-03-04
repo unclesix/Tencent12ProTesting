@@ -1,4 +1,4 @@
-from aWEB.base import Base
+from web.base import Base
 
 class Testframe(Base):
     def test_frame(self):

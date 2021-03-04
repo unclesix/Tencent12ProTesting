@@ -1,5 +1,5 @@
 
-from aWEB.selenium_wxwork_login.index import Index
+from web.selenium_wxwork_login.index import Index
 
 
 class TestRegister:

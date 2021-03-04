@@ -3,7 +3,7 @@ import time
 
 from selenium.webdriver.common.by import By
 
-from aWEB.selenium_wxwork_main.po.BasePage import BasePage
+from web.selenium_wxwork_main.po.BasePage import BasePage
 
 
 # ***继承BasePage构造方法***

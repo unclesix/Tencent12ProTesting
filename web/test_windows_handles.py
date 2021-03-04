@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-from aWEB.base import Base
+from web.base import Base
 
 class Testwindos(Base):
     def test_windows(self):

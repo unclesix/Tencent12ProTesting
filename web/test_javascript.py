@@ -1,4 +1,4 @@
-from aWEB.base import Base
+from web.base import Base
 import time
 import pytest
 class TestJS(Base):

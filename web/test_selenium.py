@@ -1,6 +1,6 @@
 import selenium
 from selenium import webdriver
-from aWEB.base import Base
+from web.base import Base
 
 
 class Testfrmae(Base):

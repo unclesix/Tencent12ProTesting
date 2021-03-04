@@ -4,9 +4,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
-from aWEB.selenium_wxwork_main.po.BasePage import BasePage
-from aWEB.selenium_wxwork_main.po.add_members_page import Addmembers
-from aWEB.selenium_wxwork_main.po.delete_member_page import Deletemember
+from web.selenium_wxwork_main.po.BasePage import BasePage
+from web.selenium_wxwork_main.po.add_members_page import Addmembers
+from web.selenium_wxwork_main.po.delete_member_page import Deletemember
 
 #***继承BasePage构造方法***
 class Main(BasePage):

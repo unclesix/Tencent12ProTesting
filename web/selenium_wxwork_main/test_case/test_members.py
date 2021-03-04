@@ -2,7 +2,7 @@
 import time
 import pytest
 
-from aWEB.selenium_wxwork_main.po.main_page import Main
+from web.selenium_wxwork_main.po.main_page import Main
 
 
 class Testaddmembers:
