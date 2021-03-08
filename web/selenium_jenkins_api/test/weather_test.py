@@ -9,9 +9,10 @@ import json
 class Weather(TestCase):
 
     def setUp(self):
-
+        #此处的setUp是当前文件的初始化动作，但是Wwather继承了TestCase类，TestCase本身及父类、父类的父类都会存在Setup。所以需要先运行一下前置的setup。
+        #此处不写super().setup()对于当前文件没有影响。
+        super().setUp()
         self.host = 'https://api.apiopen.top/videoCategory'
-        #self.ep_path = 'mweather'
         self.cleint = HttpClient()
 
     @allure.story ('Test of shenghuo')
